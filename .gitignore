@@ -1,0 +1,4 @@
+book.pdf
+*.pdf
+
+images/*.txt

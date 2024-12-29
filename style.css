@@ -1,9 +1,15 @@
 nav{
     background-color: black;
     color:  white;
+    padding: 15px;
 }
 
 #Slider{
     background-color: green;
+    padding:  10px;
+}
+
+#Sidebar{
+    background-color: blue;
     padding:  10px;
 }
